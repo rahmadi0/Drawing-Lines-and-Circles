@@ -9,7 +9,7 @@
 1. **Clone the Repository:**
    - Clone the repository to your local machine using the command: 
      ```
-     git clone https://github.com/your-username/your-repository.git
+     git clone https://github.com/rahmadi0/Drawing-Lines-and-Circles.git
      ```
 
 2. **Run the Program:**
